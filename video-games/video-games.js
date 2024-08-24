@@ -1,4 +1,8 @@
 
 
-
-module.exports = { };
+module.exports = { 
+    createPlayer,
+    createLevel,
+    findCoins,
+    defeatPlayer
+};
